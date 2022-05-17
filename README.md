@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rocky
-- 👀 I am learning to become a front end developer so I can change my career and do something exciting.
+- 👀 I am a junior front end developer.
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on web development projects for beginners.
 - 📫 How to reach me 
