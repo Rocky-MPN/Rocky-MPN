@@ -4,7 +4,8 @@
 
 I decided to change my career at the age of 40 as I believe it's never too late to follow your dreams.
 
-<img src="https://github-profile-trophy.vercel.app/?username=rocky-mpn" alt="rocky-mpn" />
+Here are some of my projects which I completed while learning:
+
 
 - 🌱 I’m currently learning: **React**
 
@@ -18,6 +19,8 @@ I decided to change my career at the age of 40 as I believe it's never too late 
 
 
 ## GitHub stats:
+<img src="https://github-profile-trophy.vercel.app/?username=rocky-mpn" alt="rocky-mpn" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rocky-mpn&show_icons=true&locale=en&layout=compact" alt="rocky-mpn" />
 
 
