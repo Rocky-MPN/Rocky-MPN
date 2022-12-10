@@ -1,12 +1,44 @@
 # Hi 👋, I'm Rocky
 
-##  I am a self-taught passionate frontend developer!
+#  I am a self-taught passionate frontend developer!
 
 I decided to change my career at the age of 40 as I believe it's never too late to follow your dreams.
 
-Here are some of my projects which I completed while learning:
 
-- [Front End projects and excercises](https://github.com/Rocky-MPN/Frontend)
+# Front End project and excercises
+Below are some of my proects and excercises I completed while learning HTML, CSS, JS and several frameworks.
+
+## FreeCodeCamp
+
+- [Breakout Game](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Breakout-Game)
+- [Memory Game](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Memory-Game)
+- [Rock Paper Scissors Game](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Rock-Paper-Scisors-Game)
+- [Personal Portfolio](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Personal-Portfolio)
+- [Product Landing Page](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Product-Landing-Page)
+- [Survey Form](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Survey-Form)
+- [Technical Documentation Page](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Technical-Documentation-Page)
+- [Tribute Page](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Tribute-Page)
+- [Whac-A-Mole Game](https://github.com/Rocky-MPN/Frontend/tree/main/FreeCodeCamp/Whac-A-Mole-Game)
+
+
+## Udemy Web Developer Bootcamp 2022
+
+- [Score Keeper](https://github.com/Rocky-MPN/Frontend/tree/main/Udemy/Score%20keeper)
+
+## Front End Mentor
+- [3 Columns Preview Card](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/3-Column-Preview-Card)
+- [4 Card Feature Section](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Four-Card-Feature-Section)
+- [NFT Preview Card Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/NFT-Preview-Card-Component)
+- [Order Summary Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Order-Summary-Component)
+- [Product Preview Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Product-Preview-Card-Component)
+- [Profile Card Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Profile-Card-Component)
+- [Single Price Grid Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Single-Price-Grid-Component)
+- [QR Card Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/QR-Code-Component)
+- [Social Proof Section](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Social-Proof-Section)
+- [Stats Preview Card Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Stats-Preview-Card-Component)
+
+
+## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
 
 
