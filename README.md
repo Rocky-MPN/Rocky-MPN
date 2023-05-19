@@ -39,6 +39,10 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Result Summary Component](https://github.com/Rocky-MPN/Frontend/tree/main/Front%20End%20Mentor/Results-Summary-Component)
 
 
+## JavaScript30
+- [JavaScrip Drum Kit](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScript30/JavaScript-Drum-Kit)
+- [JS and CSS Clock](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScript30/JS-and-CSS-Clock)
+
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
 
