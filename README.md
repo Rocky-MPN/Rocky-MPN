@@ -48,6 +48,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Business Card](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Business-Card)
 - [Picard's Birthday Card](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Birthday-Card)
 - [Hometown Project](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Hometown-Project)
+- [Basketball Scoreboard](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Basketball-Scoreboard)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
