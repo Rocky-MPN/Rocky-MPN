@@ -51,6 +51,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Basketball Scoreboard](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Basketball-Scoreboard)
 - [Password Generator](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Password-Generator)
 - [Unit Converter](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Unit-Converter)
+- [Shopping Cart App](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Shopping-Cart-App)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
