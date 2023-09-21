@@ -2,7 +2,7 @@
 
 #  I am a self-taught passionate frontend developer!
 
-I decided to change my career at the age of 40 as I believe it's never too late to follow your dreams.
+I decided to change my career at the age of 40 as I believe it's never too late to follow your dreams!
 
 
 # Front End project and excercises
