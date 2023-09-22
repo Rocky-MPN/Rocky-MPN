@@ -71,7 +71,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 
 <img src="https://github-readme-stats.vercel.app/api?username=rocky-mpn&show_icons=true&locale=en" alt="rocky-mpn" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocky-mpn" alt="rocky-mpn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocky-mpn&" alt="rocky-mpn" /></p>
 
 ### Connect with me:
 <p align="left">
