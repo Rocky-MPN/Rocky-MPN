@@ -68,6 +68,8 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rocky-mpn&show_icons=true&locale=en&layout=compact" alt="rocky-mpn" />
 
 https://github-profile-trophy.vercel.app/?username=Rocky-MPN&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rocky-MPN)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github-readme-stats.vercel.app/api?username=rocky-mpn&show_icons=true&locale=en" alt="rocky-mpn" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rocky-MPN&theme=gruvbox)](https://git.io/streak-stats)
