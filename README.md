@@ -52,6 +52,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Password Generator](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Password-Generator)
 - [Unit Converter](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Unit-Converter)
 - [Shopping Cart App](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Shopping-Cart-App)
+- [Oldagram](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Oldagram)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
@@ -67,7 +68,6 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rocky-mpn&show_icons=true&locale=en&layout=compact" alt="rocky-mpn" />
 
-https://github-profile-trophy.vercel.app/?username=Rocky-MPN&theme=dracula
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rocky-MPN)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rocky-mpn&show_icons=true&locale=en" alt="rocky-mpn" />
