@@ -53,6 +53,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Unit Converter](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Unit-Converter)
 - [Shopping Cart App](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Shopping-Cart-App)
 - [Oldagram](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Oldagram)
+- [Twitter Clone](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Twitter-Clone)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
