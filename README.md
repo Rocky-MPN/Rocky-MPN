@@ -54,6 +54,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Shopping Cart App](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Shopping-Cart-App)
 - [Oldagram](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Oldagram)
 - [Twitter Clone](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Twitter-Clone)
+- [Learning Journal](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Learning-Journal)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
