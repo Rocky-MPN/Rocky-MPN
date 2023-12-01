@@ -56,6 +56,9 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Twitter Clone](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Twitter-Clone)
 - [Learning Journal](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Learning-Journal)
 
+## JavaScriptmas 2023
+- [Day 1 - JS countdown to Xmas](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas/Day1/)
+
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
 
