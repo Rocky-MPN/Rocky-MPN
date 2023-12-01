@@ -57,7 +57,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Learning Journal](https://github.com/Rocky-MPN/Frontend/tree/main/Scrimba/Learning-Journal)
 
 ## JavaScriptmas 2023
-- [Day 1 - JS countdown to Xmas](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas/Day1/)
+- [Day 1 - JS countdown to Xmas](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas2023/Day1/)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
