@@ -60,6 +60,7 @@ Below are some of my proects and excercises I completed while learning HTML, CSS
 - [Day 1 - JS countdown to Xmas](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas2023/Day1/)
 - [Day 2 - Style a colourful button](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas2023/Day2/)
 - [Day 3 - Divide candies](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas2023/Day3/)
+- [Day 4 - Joke Generator](https://github.com/Rocky-MPN/Frontend/tree/main/JavaScriptmas2023/Day4/)
 
 ## Other Projects
 - [Star Trek Stamps Website](https://www.startrekstamps.com/index.html)
